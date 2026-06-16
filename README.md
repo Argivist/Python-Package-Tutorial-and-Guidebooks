@@ -65,4 +65,4 @@ For a smooth experience I woluld advice setting up virtal environnment that woul
 
 ## Note
 
-These are extreme simplification of the various packages,. or further understanding, refer to the documentations for the various packages as well as video tutrials and guides online. Dot be afraid to use LLMs to help build your understanding but be cautious as the sometimes hallucinate information.
+These are extreme simplification of the various packages,. or further understanding, refer to the documentations for the various packages as well as video tutorial and guides online. Dot be afraid to use LLMs to help build your understanding but be cautious as the sometimes hallucinate information.
